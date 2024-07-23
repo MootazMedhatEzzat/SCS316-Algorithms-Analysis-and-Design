@@ -29,8 +29,6 @@ Algorithms Analysis and Design Course (Spring 2024)
 
 ### Guidelines
 
-- You should submit the assignment in a group of a maximum of 4 students.
-- You must join the same team as assignment 2.
 - The discussions of both assignments 2 and 3 will be held together.
 - Submit a zip file (name this file with your id: STUDENT-ID.zip) with all files (codes) for each problem (name code file p1, p2, .. etc).
 
