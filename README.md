@@ -40,6 +40,9 @@ Let \( c \) represent the constant factor in the \( O(n) \) term.
 
 - Write the recurrence relation.
 - Verify that the upper bound is \( O(n log n) \) using the substitution method.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/76eebcf5-b561-4e63-a663-340e1468ffd7" alt="image">
+</div>
 
 #### Problem 2:
 Construct a recursion tree for the recurrence \( T(n) = 3T(n/4) + cn^2 \) and solve it using the substitution method.
@@ -57,11 +60,11 @@ Given an array of \( n \) elements \( A[0: n-1] \) that may contain positive and
 - Write the recurrence relation and solve it.
 
 ##### Problem 5:
-Find the multiplication matrix of 2 square matrices \( A \) and \( B \) of size \( n \times n \) each. Write the recurrence relation and solve it.
+Find the multiplication matrix of 2 square matrices \( A \) and \( B \) of size \( n*n \) each. Write the recurrence relation and solve it.
 
 ##### Problem 6:
 We are given an array of \( n \) points in the plane, and the problem is to find out the closest pair of points in the array. This problem arises in a number of applications. For example, in air-traffic control, you may want to monitor planes that come too close together, since this may indicate a possible collision. Recall the following formula for distance between two points \( p \) and \( q \):
-\[ \text{Euclidean distance } d(p, q) = \sqrt{(q_x − p_x)^2 + (q_y − p_y)^2} \]
+\[ \text{Euclidean distance } d(p, q) = \sqrt{(qx − px)^2 + (qy − py)^2} \]
 The brute force solution is \( O(n^2) \), compute the distance between each pair and return the smallest. Find the smallest distance in \( O(n \log n) \) time using the Divide and Conquer strategy.
 
 ##### Problem 7:
