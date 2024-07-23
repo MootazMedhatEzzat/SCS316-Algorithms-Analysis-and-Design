@@ -37,7 +37,9 @@ Algorithms Analysis and Design Course (Spring 2024)
 ### Problems
 
 #### Problem 1: [MST] (30 grades)
-![image](https://github.com/user-attachments/assets/9123d626-9601-4ef4-93d1-0920081eaa9c)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9123d626-9601-4ef4-93d1-0920081eaa9c" alt="image">
+</div>
 
 Please write an MST Prim’s code to solve the following problem with the same input and print the output graph including nodes and vertices.
 
