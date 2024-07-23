@@ -39,7 +39,7 @@ Algorithms Analysis and Design Course (Spring 2024)
 Let \( c \) represent the constant factor in the \( O(n) \) term.
 
 - Write the recurrence relation.
-- Verify that the upper bound is \( O(n \log n) \) using the substitution method.
+- Verify that the upper bound is \( O(n log n) \) using the substitution method.
 
 #### Problem 2:
 Construct a recursion tree for the recurrence \( T(n) = 3T(n/4) + cn^2 \) and solve it using the substitution method.
