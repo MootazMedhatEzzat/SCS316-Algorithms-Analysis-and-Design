@@ -29,7 +29,6 @@ Algorithms Analysis and Design Course (Spring 2024)
 
 ### Guidelines
 
-- This assignment is a group of 4 from the same Lab.
 - Please submit your solutions via Google Classroom.
 - You should submit a zip file (name this file with your id A1_STUDENT-ID.zip), put all files (codes) for each problem (name code file p1, p2, .. etc).
 
