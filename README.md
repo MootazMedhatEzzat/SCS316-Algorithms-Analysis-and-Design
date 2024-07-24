@@ -25,7 +25,7 @@
 
 Cairo University  
 Faculty of Computers and Artificial Intelligence  
-Algorithms Analysis and Design Course (Spring 2024)
+Algorithms Analysis and Design Course (Spring 2023)
 
 ### Guidelines
 
