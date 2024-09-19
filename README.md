@@ -27,11 +27,6 @@ Cairo University
 Faculty of Computers and Artificial Intelligence  
 Algorithms Analysis and Design Course (Spring 2023) 
 
-### Guidelines
-
-- Please submit your solutions via Google Classroom.
-- You should submit a zip file (name this file with your id A1_STUDENT-ID.zip), put all files (codes) for each problem (name code file p1, p2, .. etc).
-
 ### Problems
 
 #### Problem 1:
@@ -95,3 +90,48 @@ Examples:
 - Input: \( N = 3 \), \( arr[] = \{10, 10, 10\} \)
   Output: 0
   Explanation: As all the elements of the array are the same, so there is no inversion count.
+
+### 📤 Submission Instructions
+
+- Please submit your solutions via **Google Classroom**.
+- You should submit a zip file `(name this file with your id A1_STUDENT-ID.zip)`, put all files (codes) for each problem `(name code file p1, p2, .. etc)`.
+
+### 🛠️ Programming Language and Development Tools Used
+
+<table align="center" border="1" cellpadding="10">
+  <thead>
+    <tr>
+      <th>Programming Language</th>
+      <th>Development Tool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/1db36f07-698f-400f-bdd7-b3ad8f936f5d" title="Code::Blocks" alt="Code::Blocks" width="40" height="40"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        C++
+      </td>
+      <td align="center">
+        Code::Blocks IDE
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 💬 Let's Connect
+Feel free to reach out to me if you'd like to collaborate on a project or discuss technology! As a Software Engineer, I'm always open to tackling new challenges, sharing knowledge, and growing through collaborative opportunities.
+
+**Mootaz Medhat Ezzat Abdelwahab**  
+🎓 Software Engineering Graduate | Faculty of Computers and Artificial Intelligence, Cairo University  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mootaz-medhat-ezzat-abdelwahab-377a60244)
+
