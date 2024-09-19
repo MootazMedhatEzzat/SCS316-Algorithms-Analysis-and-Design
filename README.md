@@ -96,6 +96,8 @@ s = "cbbd"
 
 - Submit a zip file `(name this file with your id: STUDENT-ID.zip)` with all files (codes) for each problem `(name code file p1, p2, .. etc)`.
 
+---
+
 ### 🛠️ Programming Language and Development Tools Used
 
 <table align="center" border="1" cellpadding="10">
