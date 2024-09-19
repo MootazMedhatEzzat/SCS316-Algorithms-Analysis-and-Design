@@ -102,6 +102,8 @@ Inversion Count: For an array, inversion count indicates how far (or close) the 
 - Please submit your solutions via **Google Classroom**.
 - You should submit a zip file `(name this file with your id A1_STUDENT-ID.zip)`, put all files (codes) for each problem `(name code file p1, p2, .. etc)`.
 
+---
+
 ### 🛠️ Programming Language and Development Tools Used
 
 <table align="center" border="1" cellpadding="10">
