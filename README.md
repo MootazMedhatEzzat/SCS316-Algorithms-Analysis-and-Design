@@ -27,8 +27,6 @@ Cairo University
 Faculty of Computers and Artificial Intelligence  
 Algorithms Analysis and Design Course (Spring 2023) 
 
-### 📝 Problems
-
 #### 📊 Problem 1️⃣:
 Let \( c \) represent the constant factor in the \( O(n) \) term.
 
@@ -46,7 +44,7 @@ Construct a recursion tree for the recurrence \( T(n) = 3T(n/4) + cn^2 \) and so
 Solve the following recurrence relation:
 \[ T(0) = c1, \quad T(1) = c2, \quad T(n) = 2^k T(n/2^k) + (2^k − 1)c3 \]
 
-#### ⚖️ Divide and Conquer Problems
+### ⚖️ Divide and Conquer Problems
 
 ##### ➗ Problem 4️⃣:
 Given an array of \( n \) elements \( A[0: n-1] \) that may contain positive and negative numbers.
